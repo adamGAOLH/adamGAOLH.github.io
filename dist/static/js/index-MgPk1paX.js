@@ -1,0 +1,1 @@
+import{_ as e}from"./index-BBi26Nbf.js";import{o,c as r}from"./vue-BpQSRVcj.js";import"./elementIcons-D4OqMebh.js";const c={};function t(n,s){return o(),r("div",null,"我是登录页")}const i=e(c,[["render",t]]);export{i as default};
